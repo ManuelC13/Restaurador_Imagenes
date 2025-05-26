@@ -8,4 +8,4 @@ Proyecto de la Asignatura Procesamiento Digital de Imágenes.
 * [Raúl Ismael Batun Nahuat.](https://github.com/RaulNahuat)
 
 # Descripción General
-Este repositorio aloja el código de un proyecto escolar eleborado por estudiantes de ingeniería de software para la asignatura Procesamiento Digital de Imágenes, que consiste en la creación de un programa para restauración de imágenes, con la finalidad de aplicar conocimientos adquiridos sobre temas tratados a lo largo del semestre.
+Este repositorio aloja el código de un proyecto escolar eleborado por estudiantes de ingeniería de software para la asignatura Procesamiento Digital de Imágenes. Consiste en la creación de un programa para restauración de imágenes con problemas que simulen arrugas o partes incompletas, la finalidad de este proyecto propuesto fue aplicar conocimientos adquiridos sobre temas tratados a lo largo del semestre.
